@@ -361,3 +361,7 @@ body[data-gamepad-enabled="true"] #server-list-wrap {
 .playlist-tabs ul li a.active {
     color:white;
 }
+
+.server-list tbody tr.pinned {
+    color:yellow;
+}
